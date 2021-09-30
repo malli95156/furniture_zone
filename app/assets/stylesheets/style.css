@@ -79,7 +79,7 @@ padding: 50px 50px 50px 40px;
   right: 0;
   width: 45%;
   height: 100%;
-  background-image: image-url(..//assets/hero-side-bg.png);
+  background-image: url(..//assets/hero-side-bg.png);
   background-size: cover;
 }
 
