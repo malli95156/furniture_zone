@@ -65,7 +65,7 @@ padding: 50px 50px 50px 40px;
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-image: url(..//assets/hero-bg.jpg);
+  /*background-image: url(..//assets/hero-bg.jpg);*/
   background-size: cover;
   position: relative;
   background-repeat: no-repeat;
@@ -1121,5 +1121,17 @@ a:focus {
 
 .hello{
     margin-left: -40px;
+}
+
+.display_bar{
+
+  display: inline-block;
+
+}
+
+.display_search{
+
+  margin-bottom: -25px;
+  margin-right: 150px;
 }
 /*# sourceMappingURL=style.css.map */
